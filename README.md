@@ -1,3 +1,5 @@
+![ADPasswordHunter Logo](logo.jpeg)
+
 # How to use the tool?
 
 To launch ADPasswordHunter, open an elevated PowerShell command prompt on a domain controller. Navigate to the "ADPasswordHunter" folder, then execute the "ADPasswordHunter.ps1" file located in the "Scripts" folder.
