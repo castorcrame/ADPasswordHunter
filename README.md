@@ -71,7 +71,7 @@ Here’s a detailed explanation of the process used to generate these combinatio
 - from 10 to 99
 - from 1900 to 2050
 
-4.  *Addition of Special Characters*: Finally, each combination is enhanced by adding a special character selected from the following list: *"!", "@", "#", "%", "-", "_", "+", "=", "*".*
+4.  *Addition of Special Characters*: Finally, each combination is enhanced by adding a special character selected from the following list: "!", "@", "#", "%", "-", "_", "+", "=", "*".
 
 <br />
 To estimate the total number of combinations generated for a given word, the following formula can be used: 
