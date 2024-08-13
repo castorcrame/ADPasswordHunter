@@ -1,4 +1,5 @@
-![ADPasswordHunter Logo](logo.jpeg)
+![adpasswordhunter_logo_dark.png](https://github.com/castorcrame/ADPasswordHunter/blob/main/.github/adpasswordhunter_logo_dark.png#gh-dark-mode-only)
+![adpasswordhunter_logo_dark.png](https://github.com/castorcrame/ADPasswordHunter/blob/main/.github/adpasswordhunter_logo_light.png#gh-light-mode-only)
 
 # How to use the tool?
 
