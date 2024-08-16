@@ -17,6 +17,10 @@ cd .\ADPasswordHunter
 > [!IMPORTANT]
 > To run **ADPasswordHunter**, you must have sufficiently elevated privileges to extract the *Active Directory* database.
 
+# First use
+If you already have a text file containing hashes in *NTHash* format (one per line), you can start auditing your Active Directory. If not, add a text file with forbidden words (one per line) to the *'RawDictionaries'* folder. Then, create combinations for these words and generate hashes, or create the hashes directly.
+
+
 # Why this tool?
 
 This tool was designed to evaluate the complexity of passwords used by users in a domain. As passwords have become increasingly predictable, it is essential to determine if any users are employing passwords that are considered too weak.
