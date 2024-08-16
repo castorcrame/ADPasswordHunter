@@ -1,6 +1,12 @@
 ![adpasswordhunter_logo_dark.png](https://github.com/castorcrame/ADPasswordHunter/blob/main/.github/adpasswordhunter_logo_dark.png#gh-dark-mode-only)
 ![adpasswordhunter_logo_dark.png](https://github.com/castorcrame/ADPasswordHunter/blob/main/.github/adpasswordhunter_logo_light.png#gh-light-mode-only)
 
+# Installation
+Download the ADPasswordHunter.zip archive from the latest release. Then, extract the files from the archive.
+
+> [!CAUTION]
+> I disclaim any responsibility for how you use this tool and for any issues that may arise from its use.
+
 # How to use the tool?
 
 To launch **ADPasswordHunter**, open an elevated *PowerShell* command prompt on a domain controller. Navigate to the *"ADPasswordHunter"* folder, then execute the *"ADPasswordHunter.ps1"* file located in the *"Scripts"* folder.
@@ -10,9 +16,6 @@ cd .\ADPasswordHunter
 ```
 > [!IMPORTANT]
 > To run **ADPasswordHunter**, you must have sufficiently elevated privileges to extract the *Active Directory* database.
-
-> [!CAUTION]
-> I disclaim any responsibility for how you use this tool and for any issues that may arise from its use.
 
 # Why this tool?
 
