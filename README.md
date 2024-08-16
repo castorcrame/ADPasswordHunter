@@ -2,7 +2,7 @@
 ![adpasswordhunter_logo_dark.png](https://github.com/castorcrame/ADPasswordHunter/blob/main/.github/adpasswordhunter_logo_light.png#gh-light-mode-only)
 
 # Installation
-Download the ADPasswordHunter.zip archive from the latest release. Then, extract the files from the archive.
+Download the *ADPasswordHunter.zip* archive from the latest release. Then, extract the files from the archive.
 
 > [!CAUTION]
 > I disclaim any responsibility for how you use this tool and for any issues that may arise from its use.
